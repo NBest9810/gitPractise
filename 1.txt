@@ -1,1 +1,2 @@
-Master ahead RebaseTest2
+Master ahead Rebase
+RebaseConfilictTest1
